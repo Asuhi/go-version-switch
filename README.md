@@ -1,0 +1,1 @@
+# go-version-switch
